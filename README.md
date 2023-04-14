@@ -1,1 +1,1 @@
-# SelectedSorting
+# SelectionSorting
